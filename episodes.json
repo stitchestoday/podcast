@@ -48,5 +48,15 @@
     "audio_url": "https://archive.org/download/stitches-daily-2026-10-02/stitches-daily-2026-10-02.mp3",
     "audio_bytes": 3530292,
     "duration_s": 294.1
+  },
+  {
+    "guid": "stitches-daily-2026-10-05",
+    "date": "2026-10-05",
+    "release_at": "2026-10-05T05:00:00+02:00",
+    "title": "Colon Cancer Timing, Y Anastomosis, ICG and HCC Trials",
+    "show_notes": "Colon Cancer Timing, Y Anastomosis, ICG and HCC Trials\nSTITCHES Daily · Monday, 05 October 2026\n\nToday, we examine how surgical timing affects colon cancer survival, and whether a Y-shaped anastomosis improves recovery after esophagectomy. We also cover long-term outcomes after ventral hernia repair, the limited value of indocyanine green in gastric cancer surgery, and consensus recommendations for hepatocellular carcinoma trials.\n\nPapers in this episode:\n1. Delays in Surgery Harm Survival for Colon Cancer Patients\n   Frebault et al., University of Minnesota, Minneapolis, MN — Surgery\n   https://doi.org/10.1016/j.surg.2026.110611\n2. Y-shaped Anastomosis Reduces Complications in Esophagectomy\n   Zhang et al., State Key Laboratory of Metabolic Dysregulation and Prevention and Treatment of Esophageal Cancer, Zhengzhou, Henan Province, China — Surgery\n   https://doi.org/10.1016/j.surg.2026.110569\n3. Long-term Outcomes Favor Laparoscopic and Robotic Hernia Repair\n   Ahmed et al., Center for Perioperative Optimization, Copenhagen University Hospital - Herlev and Gentofte, Borgmester Ib Juuls Vej, DK- Herlev, Denmark — Journal of the American College of Surgeons\n   https://doi.org/10.1097/XCS.0000000000002222\n4. Indocyanine Green Fluorescence Has Limited Impact in Gastric Cancer Surgery\n   Lombardi et al., Niguarda Cancer Centre, ASST Grande Ospedale Metropolitano Niguarda, Milan, Italy — The British Journal of Surgery\n   https://doi.org/10.1093/bjs/znag116\n5. Consensus on HCC Trial Designs for Systemic Therapies\n   Yarchoan et al., Johns Hopkins University Sidney Kimmel Comprehensive Cancer Center, Baltimore, Maryland, USA — Gut\n   https://doi.org/10.1136/gutjnl-2026-339505\n\nThese summaries do not replace reading the full papers.\nSubscribe to the STITCHES newsletter: https://stitches.today\n\nMusic: Jazz Piano Restaurant Music by Alex Morgan from Pixabay\nEpisode script generated with AI from the STITCHES Daily selection and read by an AI voice (Kokoro-82M).\n",
+    "audio_url": "https://archive.org/download/stitches-daily-2026-10-05/stitches-daily-2026-10-05.mp3",
+    "audio_bytes": 3481705,
+    "duration_s": 290.1
   }
 ]
