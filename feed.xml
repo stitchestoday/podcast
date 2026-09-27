@@ -10,9 +10,9 @@
     <atom:link href="https://stitchestoday.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en</language>
     <copyright>STITCHES. Music: Jazz Piano Restaurant Music by Alex Morgan from Pixabay.</copyright>
-    <description>STITCHES Daily is the audio edition of the STITCHES Daily selection: every day, a short briefing on the most relevant new papers in abdominal and visceral surgery - what was studied, what was found, and why it matters for practising surgeons. Summaries do not replace reading the full papers. Script generated with AI from the STITCHES Daily selection and read by an AI voice.</description>
+    <description>STITCHES Daily is the audio edition of the STITCHES Daily selection: every day, a short briefing on the most relevant new papers in abdominal and visceral surgery - what was studied, what was found, and why it matters for practising surgeons. Summaries do not replace reading the full papers. Script generated from the STITCHES Daily selection and read by an AI voice.</description>
     <itunes:subtitle>The daily selection of the STITCHES surgical newsletter, in five minutes.</itunes:subtitle>
-    <itunes:summary>STITCHES Daily is the audio edition of the STITCHES Daily selection: every day, a short briefing on the most relevant new papers in abdominal and visceral surgery - what was studied, what was found, and why it matters for practising surgeons. Summaries do not replace reading the full papers. Script generated with AI from the STITCHES Daily selection and read by an AI voice.</itunes:summary>
+    <itunes:summary>STITCHES Daily is the audio edition of the STITCHES Daily selection: every day, a short briefing on the most relevant new papers in abdominal and visceral surgery - what was studied, what was found, and why it matters for practising surgeons. Summaries do not replace reading the full papers. Script generated from the STITCHES Daily selection and read by an AI voice.</itunes:summary>
     <itunes:author>STITCHES</itunes:author>
     <itunes:owner>
       <itunes:name>Ivan Capobianco</itunes:name>
@@ -25,7 +25,7 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <podcast:locked>yes</podcast:locked>
-    <lastBuildDate>Sun, 27 Sep 2026 15:08:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 18:30:25 +0000</lastBuildDate>
 
   </channel>
 </rss>
