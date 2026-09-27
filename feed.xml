@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <title>STITCHES Daily</title>
+    <link>https://stitches.today</link>
+    <atom:link href="https://stitchestoday.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>en</language>
+    <copyright>STITCHES. Music: Jazz Piano Restaurant Music by Alex Morgan from Pixabay.</copyright>
+    <description>STITCHES Daily is the audio edition of the STITCHES Daily selection: every day, a short briefing on the most relevant new papers in abdominal and visceral surgery - what was studied, what was found, and why it matters for practising surgeons. Summaries do not replace reading the full papers. Script generated with AI from the STITCHES Daily selection and read by an AI voice.</description>
+    <itunes:subtitle>The daily selection of the STITCHES surgical newsletter, in five minutes.</itunes:subtitle>
+    <itunes:summary>STITCHES Daily is the audio edition of the STITCHES Daily selection: every day, a short briefing on the most relevant new papers in abdominal and visceral surgery - what was studied, what was found, and why it matters for practising surgeons. Summaries do not replace reading the full papers. Script generated with AI from the STITCHES Daily selection and read by an AI voice.</itunes:summary>
+    <itunes:author>STITCHES</itunes:author>
+    <itunes:owner>
+      <itunes:name>Ivan Capobianco</itunes:name>
+      <itunes:email>stitches.newsletter@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://stitchestoday.github.io/podcast/cover.jpg"/>
+    <image><url>https://stitchestoday.github.io/podcast/cover.jpg</url><title>STITCHES Daily</title><link>https://stitches.today</link></image>
+    <itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine"/></itunes:category>
+    <itunes:category text="Science"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <podcast:locked>yes</podcast:locked>
+    <lastBuildDate>Sun, 27 Sep 2026 15:08:07 +0000</lastBuildDate>
+
+  </channel>
+</rss>
