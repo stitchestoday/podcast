@@ -4,32 +4,38 @@ on:
   schedule:
     - cron: "5 * * * *"      # ogni ora al minuto 5 (UTC): pubblica gli episodi arrivati all'orario
   push:
-    paths: ["episodes.json", "podcast.json", "build_feed.py"]
+    paths: ["episodes.json", "podcast.json", "build_feed.py", "index.html", "cover.jpg"]
   workflow_dispatch: {}
 
 permissions:
-  contents: write
+  contents: read
+  pages: write
+  id-token: write
 
 concurrency:
-  group: feed
+  group: pages
   cancel-in-progress: false
 
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: python build_feed.py
-      - name: Commit feed.xml se cambiato
+      - name: Costruisci feed.xml (solo episodi arrivati all'orario di uscita)
+        run: python build_feed.py
+      - name: Prepara il sito
         run: |
-          if [ -n "$(git status --porcelain feed.xml)" ]; then
-            git config user.name "stitches-bot"
-            git config user.email "actions@users.noreply.github.com"
-            git add feed.xml
-            git commit -m "Update feed.xml"
-            git pull --rebase
-            git push
-          fi
+          mkdir -p _site
+          cp feed.xml index.html cover.jpg _site/
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - name: Pubblica su GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
