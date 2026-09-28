@@ -124,11 +124,23 @@ feed = """<?xml version="1.0" encoding="UTF-8"?>
     now=format_datetime(now), items="\n".join(items),
 )
 
-old = open("feed.xml", encoding="utf-8").read() if __import__("os").path.exists("feed.xml") else ""
-# lastBuildDate cambia sempre: confronto senza, per non fare commit inutili
+# Confronto con il feed ATTUALMENTE online: si ripubblica solo se cambia qualcosa
+old = ""
+try:
+    import urllib.request
+    with urllib.request.urlopen(show["feed_url"] + "?nocache=" + str(int(now.timestamp())),
+                                timeout=20) as r:
+        old = r.read().decode("utf-8")
+except Exception as e:
+    print("feed online non leggibile ({}): pubblico comunque".format(e))
+
+# lastBuildDate cambia sempre: confronto senza
 strip = lambda s: re.sub(r"<lastBuildDate>.*?</lastBuildDate>", "", s)
-if strip(old) != strip(feed):
-    open("feed.xml", "w", encoding="utf-8").write(feed)
-    print("feed.xml aggiornato: {} episodi pubblicati".format(len(eps)))
-else:
-    print("nessun cambiamento ({} episodi pubblicati)".format(len(eps)))
+changed = strip(old) != strip(feed)
+open("feed.xml", "w", encoding="utf-8").write(feed)
+print("{}: {} episodi pubblicati".format("CAMBIATO" if changed else "nessun cambiamento", len(eps)))
+
+import os
+if os.environ.get("GITHUB_OUTPUT"):
+    with open(os.environ["GITHUB_OUTPUT"], "a") as f:
+        f.write("changed={}\n".format("true" if changed else "false"))
