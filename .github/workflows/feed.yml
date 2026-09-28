@@ -2,6 +2,52 @@ name: Build podcast feed
 
 on:
   schedule:
+    - cron: "7,22,37,52 * * * *"   # ogni 15 minuti: GitHub a volte salta dei giri, cosi' l'uscita non slitta
+  push:
+    paths: ["episodes.json", "podcast.json", "build_feed.py", "index.html", "cover.jpg"]
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Costruisci feed.xml (solo episodi arrivati all'orario di uscita)
+        id: build
+        run: python build_feed.py
+      # pubblica solo se il feed e' cambiato (o se lanciato a mano / dopo un push)
+      - name: Prepara il sito
+        if: steps.build.outputs.changed == 'true' || github.event_name != 'schedule'
+        run: |
+          mkdir -p _site
+          cp feed.xml index.html cover.jpg _site/
+      - uses: actions/upload-pages-artifact@v3
+        if: steps.build.outputs.changed == 'true' || github.event_name != 'schedule'
+        with:
+          path: _site
+      - name: Pubblica su GitHub Pages
+        id: deployment
+        if: steps.build.outputs.changed == 'true' || github.event_name != 'schedule'
+        uses: actions/deploy-pages@v4
+name: Build podcast feed
+
+on:
+  schedule:
     - cron: "5 * * * *"      # ogni ora al minuto 5 (UTC): pubblica gli episodi arrivati all'orario
   push:
     paths: ["episodes.json", "podcast.json", "build_feed.py", "index.html", "cover.jpg"]
