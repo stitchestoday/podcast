@@ -108,5 +108,15 @@
     "audio_url": "https://archive.org/download/stitches-daily-2026-10-12/stitches-daily-2026-10-12.mp3",
     "audio_bytes": 3306162,
     "duration_s": 275.5
+  },
+  {
+    "guid": "stitches-daily-2026-10-13",
+    "date": "2026-10-13",
+    "release_at": "2026-10-13T05:00:00+02:00",
+    "title": "Endoscopic Suturing, Biliary Ablation, Splenectomy and Senior Surveillance",
+    "show_notes": "Endoscopic Suturing, Biliary Ablation, Splenectomy and Senior Surveillance\nSTITCHES Daily · Tuesday, 13 October 2026\n\nToday we cover endoscopic defect closure, radiofrequency ablation for unresectable cholangiocarcinoma, and a standardized stapled colorectal technique. We also examine splenectomy during pancreatic trauma surgery, and when surveillance for pancreatic cysts or liver cancer may be stopped in older adults.\n\nPapers in this episode:\n1. Technical and clinical success of endoscopic hand-suturing: a European multicenter study.\n   Ayoub et al., St — Endoscopy\n   https://doi.org/10.1055/a-2909-3681\n2. Impact of Repeated Endobiliary Radiofrequency Ablation on Survival in Unresectable Perihilar Cholangiocarcinoma.\n   Lee et al., Asan Medical Center, Seoul — Endoscopy\n   https://doi.org/10.1055/a-2971-5831\n3. Double-stapled intracorporeal anastomosis for minimally invasive right and left colectomies: a standardized technical approach.\n   Fortunato et al., Allegheny Health Network, Pittsburgh, PA, USA — Surgical Endoscopy\n   https://doi.org/10.1007/s00464-026-13360-w\n4. Outcomes following left-sided pancreatectomy management with and without splenectomy for major pancreatic injury.\n   Tabibian et al., University of California, Los Angeles, CA — Surgery\n   https://doi.org/10.1016/j.surg.2026.110651\n5. AGA Clinical Practice Update on Surveillance of Pancreatic Cystic Lesions and Hepatocellular Carcinoma in Older Adults: Expert Review.\n   Das et al., Washington University in St Louis, Missouri — Clinical Gastroenterology and Hepatology\n   https://doi.org/10.1016/j.cgh.2026.08.005\n\nThese summaries do not replace reading the full papers.\nSubscribe to the STITCHES newsletter: https://stitches.today\n\nMusic: Jazz Piano Restaurant Music by Alex Morgan from Pixabay\nEpisode script generated from the STITCHES Daily selection and read by an AI voice.\n",
+    "audio_url": "https://archive.org/download/stitches-daily-2026-10-13/stitches-daily-2026-10-13.mp3",
+    "audio_bytes": 3448163,
+    "duration_s": 287.3
   }
 ]
