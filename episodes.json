@@ -88,5 +88,15 @@
     "audio_url": "https://archive.org/download/stitches-daily-2026-10-08/stitches-daily-2026-10-08.mp3",
     "audio_bytes": 3293936,
     "duration_s": 274.4
+  },
+  {
+    "guid": "stitches-daily-2026-10-09",
+    "date": "2026-10-09",
+    "release_at": "2026-10-09T05:00:00+02:00",
+    "title": "Postpancreatectomy Hemorrhage, Esophageal Leaks and Living Donor Transplant",
+    "show_notes": "Postpancreatectomy Hemorrhage, Esophageal Leaks and Living Donor Transplant\nSTITCHES Daily · Friday, 9 October 2026\n\nToday, five papers examine a new way to classify bleeding after pancreatic surgery, and how shared best practices may reduce leaks after esophagectomy. We also look at automated resident assessments, living donor transplantation for unresectable bile duct cancer, and mutation-based survival prediction after pancreatic cancer surgery.\n\nPapers in this episode:\n1. Postpancreatectomy hemorrhage-A new classification is needed.\n   Borges et al., Botton-Champalimaud Pancreatic Cancer Centre, Portugal — Surgery\n   https://doi.org/10.1016/j.surg.2026.110570\n2. The Impact of Best Practice Meetings on Outcomes of Esophageal Cancer Surgery in the Netherlands.\n   Visser et al., University Medical Center Utrecht, The Netherlands — Annals of Surgical Oncology\n   https://doi.org/10.1245/s10434-026-20531-5\n3. Automated Point-Of-Care Assessment Metrics for Surgical Residents Performing Consultations: A Pilot Study.\n   Acker et al., University of Pennsylvania Health System, Philadelphia — Journal of the American College of Surgeons\n   https://doi.org/10.1097/XCS.0000000000002234\n4. Outcomes After Living Donor Liver Transplant for Intrahepatic Cholangiocarcinoma.\n   Sethi et al., University of Pittsburgh Medical Center, Pittsburgh, PA — American Journal of Transplantation\n   https://doi.org/10.1016/j.ajt.2026.09.039\n5. Integrated driver gene-based survival prediction in resected pancreatic cancer.\n   Li et al., Johns Hopkins University School of Medicine, Maryland, USA — The British Journal of Surgery\n   https://doi.org/10.1093/bjs/znag123\n\nThese summaries do not replace reading the full papers.\nSubscribe to the STITCHES newsletter: https://stitches.today\n\nMusic: Jazz Piano Restaurant Music by Alex Morgan from Pixabay\nEpisode script generated from the STITCHES Daily selection and read by an AI voice.\n",
+    "audio_url": "https://archive.org/download/stitches-daily-2026-10-09/stitches-daily-2026-10-09.mp3",
+    "audio_bytes": 3065417,
+    "duration_s": 255.4
   }
 ]
