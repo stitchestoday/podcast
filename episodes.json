@@ -98,5 +98,15 @@
     "audio_url": "https://archive.org/download/stitches-daily-2026-10-09/stitches-daily-2026-10-09.mp3",
     "audio_bytes": 3065417,
     "duration_s": 255.4
+  },
+  {
+    "guid": "stitches-daily-2026-10-12",
+    "date": "2026-10-12",
+    "release_at": "2026-10-12T05:00:00+02:00",
+    "title": "Pancreatic Enucleation, Trauma Disparities and Robotic Esophagectomy",
+    "show_notes": "Pancreatic Enucleation, Trauma Disparities and Robotic Esophagectomy\nSTITCHES Daily · Monday, 12 October 2026\n\nToday, we examine organ preserving pancreatic surgery, racial disparities in prehospital trauma care, and the limits of surgical prediction models. We also discuss circulating tumor DNA after colorectal cancer treatment and robotic esophagectomy.\n\nPapers in this episode:\n1. Enucleation vs Pancreatoduodenectomy for Benign and Low-Grade Pancreatic Head Tumors.\n   Yao et al., First Medical Center of Chinese People's Liberation Army (PLA) General Hospital, China — JAMA Surgery\n   https://doi.org/10.1001/jamasurg.2026.4498\n2. Racial Disparities in Prehospital Interventions Among Injured Patients.\n   Byrd et al., University of Pittsburgh Medical Center, Pennsylvania — JAMA Surgery\n   https://doi.org/10.1001/jamasurg.2026.4509\n3. Matching Surgical Datasets to Prediction Tasks: NSQIP and Non-NSQIP Artificial Intelligence Models Across Specialties.\n   Kewalramani et al., Rutgers Robert Wood Johnson Medical School, and Sustai — Journal of the American College of Surgeons\n   https://doi.org/10.1097/XCS.0000000000002238\n4. Clinical impact of prospective circulating tumour DNA testing for minimal residual disease in colorectal cancer: the INTERCEPT programme experience.\n   Maddalena et al., The University of Texas MD Anderson Cancer Center, Texas, USA — Gut\n   https://doi.org/10.1136/gutjnl-2026-339167\n5. The Impact of Robotics on Benchmarking Criteria for the Surgical Treatment of Esophageal Cancer in Western Centers- An Evaluation Using the IDEAL Framework.\n   Krauss et al., Faculty of Medicine and University Hospital Cologne, Germany — Annals of Surgery\n   https://doi.org/10.1097/SLA.0000000000007230\n\nThese summaries do not replace reading the full papers.\nSubscribe to the STITCHES newsletter: https://stitches.today\n\nMusic: Jazz Piano Restaurant Music by Alex Morgan from Pixabay\nEpisode script generated from the STITCHES Daily selection and read by an AI voice.\n",
+    "audio_url": "https://archive.org/download/stitches-daily-2026-10-12/stitches-daily-2026-10-12.mp3",
+    "audio_bytes": 3306162,
+    "duration_s": 275.5
   }
 ]
