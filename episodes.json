@@ -158,5 +158,15 @@
     "audio_url": "https://archive.org/download/stitches-daily-2026-10-19/stitches-daily-2026-10-19.mp3",
     "audio_bytes": 3228108,
     "duration_s": 269.0
+  },
+  {
+    "guid": "stitches-daily-2026-10-20",
+    "date": "2026-10-20",
+    "release_at": "2026-10-20T05:00:00+02:00",
+    "title": "AI Trocar Entry, ICG in Gastric Cancer and Robotic Surgery",
+    "show_notes": "AI Trocar Entry, ICG in Gastric Cancer and Robotic Surgery\nSTITCHES Daily · Tuesday, 20 October 2026\n\nToday, we look at artificial intelligence for trocar entry and indocyanine green mapping in gastric cancer. We also cover robotic approaches to rectal and esophageal surgery, and workplace concerns affecting female surgeons.\n\nPapers in this episode:\n1. Deep learning-based semantic segmentation of abdominal wall layers during direct optical trocar insertion: toward AI-assisted surgical access.\n   Farzadmanesh et al., Iran University of Medical Sciences, Iran — Surgical Endoscopy\n   https://doi.org/10.1007/s00464-026-13404-1\n2. Indocyanine green-guided lymphadenectomy and survival of patients with gastric cancer: a systematic review and meta-analysis of time-to-event data.\n   Liu et al., Affiliated Hospital of North Sichuan Medical College, People's Republic of China — Surgical Endoscopy\n   https://doi.org/10.1007/s00464-026-13324-0\n3. Single-Incision Plus One Robot-Assisted Abdominoperineal Resection Using the Hugo RAS System Through a Planned Stoma Site: A Novel Reduced-Port Robotic Surgery.\n   Matsuda et al., Kyoto University, Japan — Annals of Surgical Oncology\n   https://doi.org/10.1245/s10434-026-20724-y\n4. Robotic versus Conventional Minimally Invasive Esophagectomy for Resectable Esophageal Cancer After Neoadjuvant Therapy: A Dual-Center Retrospective Study.\n   Shen et al., Shanghai Jiao Tong University School of Medicine Affiliated Ruijin Hospital, China — Annals of Surgical Oncology\n   https://doi.org/10.1245/s10434-026-20729-7\n5. What Factors Drive Female Surgeons to Change Jobs or Leave Medicine Altogether?\n   Brierley et al., Phoenix Children's, Phoenix, AZ — Annals of Surgery\n   https://doi.org/10.1097/SLA.0000000000007236\n\nThese summaries do not replace reading the full papers.\nSubscribe to the STITCHES newsletter: https://stitches.today\n\nMusic: Jazz Piano Restaurant Music by Alex Morgan from Pixabay\nEpisode script generated from the STITCHES Daily selection and read by an AI voice.\n",
+    "audio_url": "https://archive.org/download/stitches-daily-2026-10-20/stitches-daily-2026-10-20.mp3",
+    "audio_bytes": 3300519,
+    "duration_s": 275.0
   }
 ]
