@@ -128,5 +128,15 @@
     "audio_url": "https://archive.org/download/stitches-daily-2026-10-14/stitches-daily-2026-10-14.mp3",
     "audio_bytes": 3072627,
     "duration_s": 256.0
+  },
+  {
+    "guid": "stitches-daily-2026-10-15",
+    "date": "2026-10-15",
+    "release_at": "2026-10-15T05:00:00+02:00",
+    "title": "Robotic Pancreatic Surgery, Rectal Anastomosis and Postoperative Symptoms",
+    "show_notes": "Robotic Pancreatic Surgery, Rectal Anastomosis and Postoperative Symptoms\nSTITCHES Daily · Thursday, 15 October 2026\n\nToday’s papers examine changing approaches to pancreatic and rectal surgery, resident participation in robotic operations, and symptoms after pancreatic cancer surgery. We also look at whether gastrojejunostomy technique affects delayed gastric emptying.\n\nPapers in this episode:\n1. Adjusted trend analysis in the adoption and outcomes of minimally invasive pancreaticoduodenectomy approaches: over a decade of contemporary U.S. data.\n   Foroutani et al., University of California, San Francisco, CA, USA — Surgical Endoscopy\n   https://doi.org/10.1007/s00464-026-13444-7\n2. Ruling the robot: a phase-based analysis of resident autonomy across core robotic general surgery procedures.\n   Patel et al., Medical University of South Carolina, Charleston, SC, USA — Surgical Endoscopy\n   https://doi.org/10.1007/s00464-026-13439-4\n3. Gastrointestinal symptoms and health-related quality of life before and after pancreatectomy for pancreatic cancer (GO-PANC): longitudinal nationwide study.\n   Vissers et al., Netherlands Comprehensive Cancer Organization, The Netherlands — The British Journal of Surgery\n   https://doi.org/10.1093/bjs/znag122\n4. Restorative resection in robot-assisted versus laparoscopic total mesorectal excision: systematic review and meta-analysis.\n   Genders et al., University Medical Centre Groningen, The Netherlands — The British Journal of Surgery\n   https://doi.org/10.1093/bjs/znag106\n5. Impact of Side-to-Side Versus End-to-Side Gastrojejunostomy on the Rate of Delayed Gastric Emptying After Pancreatoduodenectomy (IPAD study): A Randomized Controlled Trial.\n   Robin et al., University Hospital of Rennes, France — Annals of Surgery\n   https://doi.org/10.1097/SLA.0000000000007182\n\nThese summaries do not replace reading the full papers.\nSubscribe to the STITCHES newsletter: https://stitches.today\n\nMusic: Jazz Piano Restaurant Music by Alex Morgan from Pixabay\nEpisode script generated from the STITCHES Daily selection and read by an AI voice.\n",
+    "audio_url": "https://archive.org/download/stitches-daily-2026-10-15/stitches-daily-2026-10-15.mp3",
+    "audio_bytes": 3309923,
+    "duration_s": 275.8
   }
 ]
