@@ -118,5 +118,15 @@
     "audio_url": "https://archive.org/download/stitches-daily-2026-10-13/stitches-daily-2026-10-13.mp3",
     "audio_bytes": 3448163,
     "duration_s": 287.3
+  },
+  {
+    "guid": "stitches-daily-2026-10-14",
+    "date": "2026-10-14",
+    "release_at": "2026-10-14T05:00:00+02:00",
+    "title": "Robotic Training, Pancreatic Resection and Esophageal Surgery",
+    "show_notes": "Robotic Training, Pancreatic Resection and Esophageal Surgery\nSTITCHES Daily · Wednesday, 14 October 2026\n\nToday, we look at artificial intelligence in robotic training and a reporting tool for surgical innovation. We also cover pancreatic and esophageal surgery, plus a new framework for allocating treatment in liver cancer.\n\nPapers in this episode:\n1. Status of the application of artificial intelligence (AI) in robotic surgical skills training in the modern robotic era and future horizons: a systematic review.\n   Zhang et al., University of Dundee, Dundee, UK — Surgical Endoscopy\n   https://doi.org/10.1007/s00464-026-13396-y\n2. Radical Antegrade Modular Pancreatosplenectomy Versus Standard Resection in T3 Body and Tail Pancreatic Ductal Adenocarcinoma: A Multicenter Retrospective Cohort Study.\n   Wu et al., Shengli Clinical Medical College of Fujian Medical University, China — Annals of Surgical Oncology\n   https://doi.org/10.1245/s10434-026-20627-y\n3. Concise stakeholder-informed tool for reporting modifications to innovative surgical procedures and devices: Surgical ModificAtion Reporting Tool (SMART) checklist.\n   Olivier et al., University Hospitals Bristol and Weston NHS Foundation Trust and University of Bristol, Bristol, UK — The British Journal of Surgery\n   https://doi.org/10.1093/bjs/znag117\n4. The Impact of Robotics on Benchmarking Criteria for the Surgical Treatment of Esophageal Cancer in Western Centers: An Evaluation Using the IDEAL Framework.\n   Krauss et al., Faculty of Medicine and University Hospital Cologne, Germany — Annals of Surgery\n   https://doi.org/10.1097/SLA.0000000000007230\n5. BEACON-HCC: Best evidence and North American consensus on treatment allocation for hepatocellular carcinoma.\n   Singal et al., UT Southwestern Medical Center, Texas, USA — Hepatology (Baltimore, Md.)\n   https://doi.org/10.1097/HEP.0000000000001834\n\nThese summaries do not replace reading the full papers.\nSubscribe to the STITCHES newsletter: https://stitches.today\n\nMusic: Jazz Piano Restaurant Music by Alex Morgan from Pixabay\nEpisode script generated from the STITCHES Daily selection and read by an AI voice.\n",
+    "audio_url": "https://archive.org/download/stitches-daily-2026-10-14/stitches-daily-2026-10-14.mp3",
+    "audio_bytes": 3072627,
+    "duration_s": 256.0
   }
 ]
