@@ -138,5 +138,15 @@
     "audio_url": "https://archive.org/download/stitches-daily-2026-10-15/stitches-daily-2026-10-15.mp3",
     "audio_bytes": 3309923,
     "duration_s": 275.8
+  },
+  {
+    "guid": "stitches-daily-2026-10-16",
+    "date": "2026-10-16",
+    "release_at": "2026-10-16T05:00:00+02:00",
+    "title": "Biliary Imaging, VTE Prevention and Gastric Cancer Treatment",
+    "show_notes": "Biliary Imaging, VTE Prevention and Gastric Cancer Treatment\nSTITCHES Daily · Friday, 16 October 2026\n\nToday, we look at computer vision for biliary imaging and extended clot prevention after colorectal surgery. We also cover financial strain after esophagectomy, treatment sequencing for gastric cancer, and training in robotic pancreatic surgery.\n\nPapers in this episode:\n1. Computer vision augmented indocyanine green near-infrared fluorescence (ICG-NIRF) signal-to-background ratio (SBR) for identification of extrahepatic biliary structures in laparoscopic cholecystectomy.\n   Seger et al., University at Buffalo, Buffalo, NY, USA — Surgical Endoscopy\n   https://doi.org/10.1007/s00464-026-13442-9\n2. Role of extended venous thromboembolism prophylaxis in patients with colorectal neoplasia who underwent minimally invasive colorectal surgery within an enhanced recovery after surgery protocol.\n   AlMarzooqi et al., McGill University Health Center, Canada — Surgical Endoscopy\n   https://doi.org/10.1007/s00464-026-13445-6\n3. Financial Toxicity in Patients with Resected Esophageal Cancer.\n   Deboever et al., University of Texas MD Anderson Cancer Center, Houston, TX, USA — Annals of Surgical Oncology\n   https://doi.org/10.1245/s10434-026-20623-2\n4. Treatment Outcomes for Gastric Cancer With Positive Peritoneal Lavage Cytology or Localized Peritoneal Metastasis.\n   Fujiya et al., Shizuoka Cancer Center, Japan — JAMA Surgery\n   https://doi.org/10.1001/jamasurg.2026.4647\n5. Pan-European Training Program for Robotic Pancreatoduodenectomy (LEARNBOT): Prospective Multicenter Study on Feasibility and Outcome.\n   Jones et al., location University of Amsterdam, The Netherlands — Annals of Surgery\n   https://doi.org/10.1097/SLA.0000000000007170\n\nThese summaries do not replace reading the full papers.\nSubscribe to the STITCHES newsletter: https://stitches.today\n\nMusic: Jazz Piano Restaurant Music by Alex Morgan from Pixabay\nEpisode script generated from the STITCHES Daily selection and read by an AI voice.\n",
+    "audio_url": "https://archive.org/download/stitches-daily-2026-10-16/stitches-daily-2026-10-16.mp3",
+    "audio_bytes": 3192372,
+    "duration_s": 266.0
   }
 ]
