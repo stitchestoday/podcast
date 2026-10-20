@@ -178,5 +178,15 @@
     "audio_url": "https://archive.org/download/stitches-daily-2026-10-21/stitches-daily-2026-10-21.mp3",
     "audio_bytes": 3413995,
     "duration_s": 284.4
+  },
+  {
+    "guid": "stitches-daily-2026-10-22",
+    "date": "2026-10-22",
+    "release_at": "2026-10-22T05:00:00+02:00",
+    "title": "Gallbladder Benchmarks, Tubeless Recovery and Pancreatic Surgery",
+    "show_notes": "Gallbladder Benchmarks, Tubeless Recovery and Pancreatic Surgery\nSTITCHES Daily · Thursday, 22 October 2026\n\nToday, we look at quality benchmarks for gallbladder surgery and fluorescence guidance in emergency operations. We also cover tubeless recovery after gastrectomy, robotic pancreatectomy, and staging laparoscopy for pancreatic cancer.\n\nPapers in this episode:\n1. Elective cholecystectomy benchmarks: nationwide registry study.\n   Kihlstedt Pasquier et al., Linköping University, Sweden — BJS Open\n   https://doi.org/10.1093/bjsopen/zrag175\n2. Indocyanine green fluorescence-guided surgery in acute settings: state-of-the art.\n   Abdelrahman et al., Hamad Medical Corporation, Qatar — Frontiers in Surgery\n   https://doi.org/10.3389/fsurg.2026.1962138\n3. Feasibility of a tubeless enhanced recovery strategy in non-high-risk patients undergoing laparoscopy-assisted gastrectomy for gastric cancer.\n   Zhang et al., The Second Hospital & Clinical Medical School, China — Surgical Endoscopy\n   https://doi.org/10.1007/s00464-026-13467-0\n4. Adoption and outcomes of robotic pancreatectomy in the United States: An instrumental variable analysis.\n   Savitch et al., University of Michigan, Ann Arbor, MI — Surgery\n   https://doi.org/10.1016/j.surg.2026.110568\n5. Predictive Factors for Occult Metastases in Clinically M0 Pancreatic Cancer: A Prospective Multicenter Analysis of Staging Laparoscopy.\n   Iseki et al., Tohoku University Graduate School of Medicine, Japan — Annals of Surgical Oncology\n   https://doi.org/10.1245/s10434-026-20728-8\n\nThese summaries do not replace reading the full papers.\nSubscribe to the STITCHES newsletter: https://stitches.today\n\nMusic: Jazz Piano Restaurant Music by Alex Morgan from Pixabay\nEpisode script generated from the STITCHES Daily selection and read by an AI voice.\n",
+    "audio_url": "https://archive.org/download/stitches-daily-2026-10-22/stitches-daily-2026-10-22.mp3",
+    "audio_bytes": 3359138,
+    "duration_s": 279.9
   }
 ]
