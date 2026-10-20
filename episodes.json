@@ -188,5 +188,15 @@
     "audio_url": "https://archive.org/download/stitches-daily-2026-10-22/stitches-daily-2026-10-22.mp3",
     "audio_bytes": 3359138,
     "duration_s": 279.9
+  },
+  {
+    "guid": "stitches-daily-2026-10-23",
+    "date": "2026-10-23",
+    "release_at": "2026-10-23T05:00:00+02:00",
+    "title": "Rectal Surgery Timing, Uniportal Esophagectomy and Liver Cancer Surgery",
+    "show_notes": "Rectal Surgery Timing, Uniportal Esophagectomy and Liver Cancer Surgery\nSTITCHES Daily · Friday, 23 October 2026\n\nToday, we look at timing in rectal cancer surgery and new approaches to esophageal and colorectal operations. We also cover operating room delays in emergency surgery, and surgery after treatment for liver cancer.\n\nPapers in this episode:\n1. Oncological outcomes of direct versus delayed surgery after neoadjuvant short-course radiotherapy for rectal cancer: national cohort study.\n   Azhar et al., Lund University, Sweden — BJS Open\n   https://doi.org/10.1093/bjsopen/zrag146\n2. Uniportal versus Multiportal Video-Assisted Thoracoscopic Surgery for Minimally Invasive Esophagectomy in Esophageal Cancer: A GRADE-Assessed Systematic Review and Meta-Analysis.\n   Amin et al., King Edward Medical University, Pakistan — Journal of Gastrointestinal Cancer\n   https://doi.org/10.1007/s12029-026-01615-7\n3. Implementation of a single-port robotic platform into your colorectal surgery practice: a SAGES colorectal committee task force review of evolving robotic technology and innovations.\n   Sarin et al., UC Davis Medical Center, Sacramento, CA, USA — Surgical Endoscopy\n   https://doi.org/10.1007/s00464-026-13471-4\n4. Hospital capacity and operating room access for emergency general surgery patients : OR access and LOS for short-stay MIS EGS.\n   Miranda et al., Atrium Health Carolinas Medical Center, Charlotte, NC, USA — Surgical Endoscopy\n   https://doi.org/10.1007/s00464-026-13453-6\n5. Long-term outcome of hepatectomy following conversion therapy for initially unresectable hepatocellular carcinoma versus direct hepatectomy for early-stage hepatocellular carcinoma.\n   Li et al., Nankai University, China — Hepatobiliary Surgery and Nutrition\n   https://doi.org/10.21037/hbsn-2025-125\n\nThese summaries do not replace reading the full papers.\nSubscribe to the STITCHES newsletter: https://stitches.today\n\nMusic: Jazz Piano Restaurant Music by Alex Morgan from Pixabay\nEpisode script generated from the STITCHES Daily selection and read by an AI voice.\n",
+    "audio_url": "https://archive.org/download/stitches-daily-2026-10-23/stitches-daily-2026-10-23.mp3",
+    "audio_bytes": 3345659,
+    "duration_s": 278.8
   }
 ]
