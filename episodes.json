@@ -198,5 +198,15 @@
     "audio_url": "https://archive.org/download/stitches-daily-2026-10-23/stitches-daily-2026-10-23.mp3",
     "audio_bytes": 3345659,
     "duration_s": 278.8
+  },
+  {
+    "guid": "stitches-daily-2026-10-26",
+    "date": "2026-10-26",
+    "release_at": "2026-10-26T05:00:00+01:00",
+    "title": "Diverticulitis Surgery, Hernia Mesh and Pancreatic Risk",
+    "show_notes": "Diverticulitis Surgery, Hernia Mesh and Pancreatic Risk\nSTITCHES Daily · Monday, 26 October 2026\n\nToday, we look at updated guidance for diverticulitis and a durability signal in ventral hernia repair. We also cover imaging for pancreatic cyst risk, staging neuroendocrine tumors, and a trial of botulinum toxin to prevent fistula after pancreatic surgery.\n\nPapers in this episode:\n1. EAES-SAGES clinical practice guideline update: multi-society recommendations on key controversies in the management of diverticular disease.\n   Huo et al., McMaster University, Canada — Surgical Endoscopy\n   https://doi.org/10.1007/s00464-026-13296-1\n2. Lightweight polypropylene mesh is associated with higher long-term recurrence after open ventral hernia repair.\n   Kerr et al., Carolinas Medical Center, Charlotte, NC — Surgery\n   https://doi.org/10.1016/j.surg.2026.110609\n3. Quantitative CT-Derived Imaging Features Improve Preoperative Risk Stratification of Intraductal Papillary Mucinous Neoplasms.\n   Lee et al., Seoul National University Hospital, Republic of Korea — Annals of Surgical Oncology\n   https://doi.org/10.1245/s10434-026-20615-2\n4. The Use and Utility of Preoperative Somatostatin Receptor-Based Imaging in Gastroenteropancreatic Neuroendocrine Tumors.\n   Chang et al., University of Iowa Carver College of Medicine, Iowa City, IA, USA — Annals of Surgical Oncology\n   https://doi.org/10.1245/s10434-026-20735-9\n5. Preoperative Injection of Botulinum Toxin Into the Sphincter of Oddi Does Not Prevent Pancreatic Fistula After Distal Pancreatectomy: The Randomized Controlled PREBOTPilot Trial.\n   Mack et al., University Hospital Heidelberg, Germany — Annals of Surgery\n   https://doi.org/10.1097/SLA.0000000000007239\n\nThese summaries do not replace reading the full papers.\nSubscribe to the STITCHES newsletter: https://stitches.today\n\nMusic: Jazz Piano Restaurant Music by Alex Morgan from Pixabay\nEpisode script generated from the STITCHES Daily selection and read by an AI voice.\n",
+    "audio_url": "https://archive.org/download/stitches-daily-2026-10-26/stitches-daily-2026-10-26.mp3",
+    "audio_bytes": 3294250,
+    "duration_s": 274.5
   }
 ]
