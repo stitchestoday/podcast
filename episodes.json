@@ -168,5 +168,15 @@
     "audio_url": "https://archive.org/download/stitches-daily-2026-10-20/stitches-daily-2026-10-20.mp3",
     "audio_bytes": 3300519,
     "duration_s": 275.0
+  },
+  {
+    "guid": "stitches-daily-2026-10-21",
+    "date": "2026-10-21",
+    "release_at": "2026-10-21T05:00:00+02:00",
+    "title": "Obstructing Colon Cancer, Bile Duct Closure and Robotic Surgery",
+    "show_notes": "Obstructing Colon Cancer, Bile Duct Closure and Robotic Surgery\nSTITCHES Daily · Wednesday, 21 October 2026\n\nToday, we look at CT findings that may help plan surgery for obstructing colon cancer, and outcomes after bile duct exploration and right colectomy. We also examine robotic cancer surgery and intravenous access in hypotensive trauma.\n\nPapers in this episode:\n1. Are a Dilated Cecum and Small Bowel Distention on CT Imaging Associated with Worse Postoperative Outcomes in Left-Sided Obstructive Colon Cancer? A Population-Based Study.\n   Kertzman et al., Jeroen Bosch Hospital, The Netherlands — Digestive Surgery\n   https://doi.org/10.1159/dsu/acoag008\n2. Laparoscopic common bile duct exploration with primary closure: a single-center analysis of 743 consecutive patients.\n   Pu et al., Chengdu Qingbaijiang District People's Hospital, China — Journal of Gastrointestinal Surgery\n   https://doi.org/10.1016/j.gassur.2026.102591\n3. Impact of an institutional shift to intracorporeal anastomosis on postoperative outcomes after laparoscopic right colectomy for cancer.\n   Ghignone et al., University of Bologna, Italy — Journal of Gastrointestinal Surgery\n   https://doi.org/10.1016/j.gassur.2026.102605\n4. Straight-Stick and Robotic Resection for Solid Organ Cancer: A US Hospital-Based National Analysis.\n   Pohlman et al., Loyola University Chicago, Abdelsattar). Department of Sur — Journal of the American College of Surgeons\n   https://doi.org/10.1097/XCS.0000000000002034\n5. Stick or Switch: Diminishing Returns of Repeated Peripheral IV Access Attempts in Hypotensive Trauma Patients.\n   Dumas et al., Baylor College of Medicine, TX (Dumas) — Journal of the American College of Surgeons\n   https://doi.org/10.1097/XCS.0000000000002027\n\nThese summaries do not replace reading the full papers.\nSubscribe to the STITCHES newsletter: https://stitches.today\n\nMusic: Jazz Piano Restaurant Music by Alex Morgan from Pixabay\nEpisode script generated from the STITCHES Daily selection and read by an AI voice.\n",
+    "audio_url": "https://archive.org/download/stitches-daily-2026-10-21/stitches-daily-2026-10-21.mp3",
+    "audio_bytes": 3413995,
+    "duration_s": 284.4
   }
 ]
