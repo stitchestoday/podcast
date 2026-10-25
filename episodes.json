@@ -218,5 +218,15 @@
     "audio_url": "https://archive.org/download/stitches-daily-2026-10-27/stitches-daily-2026-10-27.mp3",
     "audio_bytes": 3219958,
     "duration_s": 268.3
+  },
+  {
+    "guid": "stitches-daily-2026-10-28",
+    "date": "2026-10-28",
+    "release_at": "2026-10-28T05:00:00+01:00",
+    "title": "Cancer Surgery Clots, Gallbladder AI and Gastric Bypass",
+    "show_notes": "Cancer Surgery Clots, Gallbladder AI and Gastric Bypass\nSTITCHES Daily · Wednesday, 28 October 2026\n\nToday, we look at extended blood thinners after cancer surgery and a research roadmap for surgical palliative care. We also examine AI narration in gallbladder surgery, endoscopic bypass for cancer-related stomach blockage, and circulation guidance after major abdominal surgery.\n\nPapers in this episode:\n1. Effect of Extended-Duration Venous Thromboprophylaxis After Cancer Surgery.\n   Wang et al., West China Hospital, China — Annals of Surgical Oncology\n   https://doi.org/10.1245/s10434-026-20700-6\n2. Palliative Care in Surgery: Updated Research Priorities from the Surgical Palliative Care Research Expert Consensus Conference.\n   Wong et al., Brigham and Women's Hospital, Boston, MA — Journal of the American College of Surgeons\n   https://doi.org/10.1097/XCS.0000000000002260\n3. Evaluation of Vision-Language Models for Surgical Narration and Critical View of Safety Assessment in Laparoscopic Cholecystectomy.\n   Glazer et al., University at Buffalo, Buffalo, NY — Journal of the American College of Surgeons\n   https://doi.org/10.1097/XCS.0000000000002259\n4. Clinical efficacy of endoscopic ultrasound-guided gastroenterostomy, enteral stent placement, and surgical gastrojejunostomy for malignant gastric outlet obstruction: a network meta-analysis.\n   Peng et al., McGill University Health Centre, Canada — Gastrointestinal Endoscopy\n   https://doi.org/10.1016/j.gie.2026.07.038\n5. Individualized Cardiac Index-Guided Hemodynamic Therapy in High-Risk Patients Undergoing Elective Major Abdominal Surgery: The PELICAN Randomized Clinical Trial.\n   Saugel et al., University Medical Center Hamburg-Eppendorf, Germany — JAMA\n   https://doi.org/10.1001/jama.2026.18574\n\nThese summaries do not replace reading the full papers.\nSubscribe to the STITCHES newsletter: https://stitches.today\n\nMusic: Jazz Piano Restaurant Music by Alex Morgan from Pixabay\nEpisode script generated from the STITCHES Daily selection and read by an AI voice.\n",
+    "audio_url": "https://archive.org/download/stitches-daily-2026-10-28/stitches-daily-2026-10-28.mp3",
+    "audio_bytes": 3014322,
+    "duration_s": 251.2
   }
 ]
