@@ -228,5 +228,15 @@
     "audio_url": "https://archive.org/download/stitches-daily-2026-10-28/stitches-daily-2026-10-28.mp3",
     "audio_bytes": 3014322,
     "duration_s": 251.2
+  },
+  {
+    "guid": "stitches-daily-2026-10-29",
+    "date": "2026-10-29",
+    "release_at": "2026-10-29T05:00:00+01:00",
+    "title": "Transanal Extraction, Robotic Emergency Surgery and Pancreatic Cancer Treatment",
+    "show_notes": "Transanal Extraction, Robotic Emergency Surgery and Pancreatic Cancer Treatment\nSTITCHES Daily · Thursday, 29 October 2026\n\nToday, we look at specimen extraction in rectal cancer surgery and robotic approaches in pancreatic and emergency abdominal surgery. We also cover fluorescence imaging for difficult gallbladder operations and combined treatment for locally advanced pancreatic cancer.\n\nPapers in this episode:\n1. Transanal natural orifice specimen extraction for restorative minimally invasive total mesorectal excision, enabled by transanal transection and single-stapled anastomosis: a propensity score-matched study of wound complications and postoperative pain.\n   Carvello et al., Humanitas University, Italy — Surgical Endoscopy\n   https://doi.org/10.1007/s00464-026-13511-z\n2. Early nationwide experience with robotic versus open lateral pancreaticojejunostomy for symptomatic wide-duct chronic pancreatitis.\n   Kilinc et al., Location University of Amsterdam, the Netherlands — Surgical Endoscopy\n   https://doi.org/10.1007/s00464-026-13402-3\n3. Targeting indocyanine green where it matters most: a CRP-stratified cohort study in acute cholecystitis.\n   Carramiñana-Nuño et al., Hospital Royo Villanova, Spain — Surgical Endoscopy\n   https://doi.org/10.1007/s00464-026-13524-8\n4. Robotic emergency surgery in geriatric care.\n   Hess et al., Cooper University Hospital, Camden, NJ, USA — Surgical Endoscopy\n   https://doi.org/10.1007/s00464-026-13460-7\n5. Analysis of the Safety and Efficacy of Cryoablation in Patients with Locally Advanced Pancreatic Cancer.\n   Shao et al., West China Hospital, People's Republic of China — Annals of Surgical Oncology\n   https://doi.org/10.1245/s10434-026-20731-z\n\nThese summaries do not replace reading the full papers.\nSubscribe to the STITCHES newsletter: https://stitches.today\n\nMusic: Jazz Piano Restaurant Music by Alex Morgan from Pixabay\nEpisode script generated from the STITCHES Daily selection and read by an AI voice.\n",
+    "audio_url": "https://archive.org/download/stitches-daily-2026-10-29/stitches-daily-2026-10-29.mp3",
+    "audio_bytes": 3407726,
+    "duration_s": 283.9
   }
 ]
