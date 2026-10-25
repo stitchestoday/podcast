@@ -238,5 +238,15 @@
     "audio_url": "https://archive.org/download/stitches-daily-2026-10-29/stitches-daily-2026-10-29.mp3",
     "audio_bytes": 3407726,
     "duration_s": 283.9
+  },
+  {
+    "guid": "stitches-daily-2026-10-30",
+    "date": "2026-10-30",
+    "release_at": "2026-10-30T05:00:00+01:00",
+    "title": "Colon Surgery for Constipation, Days at Home and Liver Cancer Options",
+    "show_notes": "Colon Surgery for Constipation, Days at Home and Liver Cancer Options\nSTITCHES Daily · Friday, 30 October 2026\n\nToday, we look at recovery after endoscopic removal, how emergency surgery affects hospital infection comparisons, and two approaches to colon surgery for constipation. We also cover measuring recovery after cancer surgery and evolving treatment options for intrahepatic cholangiocarcinoma.\n\nPapers in this episode:\n1. Enhanced recovery after surgery (ERAS) for endoscopic resection of upper gastrointestinal lesions ≤ 2 cm: a single-center, 1:2 randomized, controlled, non-inferiority trial.\n   Sun et al., General Hospital of Northern Theater Command, China — Surgical Endoscopy\n   https://doi.org/10.1007/s00464-026-13383-3\n2. Accounting for urgency: Implications of risk adjustment for surgical site infection after emergency colon surgery at safety net hospitals.\n   Clark et al., University of Washington, Seattle, WA — Surgery\n   https://doi.org/10.1016/j.surg.2026.110679\n3. Subtotal Colectomy vs Total Colectomy for Slow-Transit Constipation: 1-Year Outcomes of the STOPS Randomized Clinical Trial.\n   Guo et al., Army Medical Center (Daping Hospital), China — JAMA Surgery\n   https://doi.org/10.1001/jamasurg.2026.4932\n4. Days at Home After Gastrointestinal Cancer Surgery as a Patient-Centered Outcome.\n   Ribeiro et al., University of Toronto, Canada — JAMA Surgery\n   https://doi.org/10.1001/jamasurg.2026.4890\n5. Intrahepatic Cholangiocarcinoma: A Review.\n   Tsilimigras et al., The Ohio State University Wexner Medical Center and James Comprehensive Cancer Center, Columbus — JAMA Surgery\n   https://doi.org/10.1001/jamasurg.2026.4971\n\nThese summaries do not replace reading the full papers.\nSubscribe to the STITCHES newsletter: https://stitches.today\n\nMusic: Jazz Piano Restaurant Music by Alex Morgan from Pixabay\nEpisode script generated from the STITCHES Daily selection and read by an AI voice.\n",
+    "audio_url": "https://archive.org/download/stitches-daily-2026-10-30/stitches-daily-2026-10-30.mp3",
+    "audio_bytes": 3406158,
+    "duration_s": 283.8
   }
 ]
