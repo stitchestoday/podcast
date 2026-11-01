@@ -258,5 +258,15 @@
     "audio_url": "https://archive.org/download/stitches-daily-2026-11-02/stitches-daily-2026-11-02.mp3",
     "audio_bytes": 3295190,
     "duration_s": 274.6
+  },
+  {
+    "guid": "stitches-daily-2026-11-03",
+    "date": "2026-11-03",
+    "release_at": "2026-11-03T05:00:00+01:00",
+    "title": "Emergency Surgery Risks, Liver Cancer Drugs and Gallbladder Cancer Survival",
+    "show_notes": "Emergency Surgery Risks, Liver Cancer Drugs and Gallbladder Cancer Survival\nSTITCHES Daily · Tuesday, 3 November 2026\n\nToday, we look at surgeons’ interest in operating beyond Earth, and the risks of lung complications after emergency abdominal surgery. We also consider changes in surgery research, medicines around liver cancer surgery, and blood-based nutrition scores in gallbladder cancer.\n\nPapers in this episode:\n1. Exploring perspectives and engagement in space surgery: a survey of SAGES members.\n   Guidolin et al., Brigham and Women's Hospital, Boston, MA, USA — Surgical Endoscopy\n   https://doi.org/10.1007/s00464-026-13410-3\n2. Postoperative pulmonary complications and the time-varying risk of death after major emergency abdominal surgery: A prospective cohort study.\n   Nærum et al., Copenhagen University Hospital - Herlev and Gentofte, Denmark — Surgery\n   https://doi.org/10.1016/j.surg.2026.110706\n3. Crossing the zero line: A scientometric analysis of surgery's transition from disruptive to consolidating science.\n   Kuo et al., Duke University, Durham, NC — Surgery\n   https://doi.org/10.1016/j.surg.2026.110719\n4. The Landmark Series: Perioperative Management of Hepatocellular Carcinoma.\n   Nahi et al., University of Texas Southwestern Medical Center, Dallas, TX, USA — Annals of Surgical Oncology\n   https://doi.org/10.1245/s10434-026-20690-5\n5. Impact of the Prognostic Nutritional Index on Outcomes in Resectable Gallbladder Cancer.\n   Patkar et al., Tata Memorial Hospital, India — Annals of Surgical Oncology\n   https://doi.org/10.1245/s10434-026-20703-3\n\nThese summaries do not replace reading the full papers.\nSubscribe to the STITCHES newsletter: https://stitches.today\n\nMusic: Jazz Piano Restaurant Music by Alex Morgan from Pixabay\nEpisode script generated from the STITCHES Daily selection and read by an AI voice.\n",
+    "audio_url": "https://archive.org/download/stitches-daily-2026-11-03/stitches-daily-2026-11-03.mp3",
+    "audio_bytes": 3103974,
+    "duration_s": 258.6
   }
 ]
