@@ -278,5 +278,15 @@
     "audio_url": "https://archive.org/download/stitches-daily-2026-11-04/stitches-daily-2026-11-04.mp3",
     "audio_bytes": 3265411,
     "duration_s": 272.1
+  },
+  {
+    "guid": "stitches-daily-2026-11-05",
+    "date": "2026-11-05",
+    "release_at": "2026-11-05T05:00:00+01:00",
+    "title": "Robotic Liver Surgery, Gastric Nodes and Combined Cancer Surgery",
+    "show_notes": "Robotic Liver Surgery, Gastric Nodes and Combined Cancer Surgery\nSTITCHES Daily · Thursday, 5 November 2026\n\nToday, we look at weight and recovery after robotic liver surgery, and blood markers that may help assess pancreatic cancer outcomes. We also cover lymph node examination in older stomach cancer patients, surgery timing after pulmonary embolism, and one-stage versus staged surgery for rectal cancer with liver spread.\n\nPapers in this episode:\n1. Body mass index and textbook outcome after robotic liver resection: A multinational cohort study across 30 centers.\n   Li et al., University of Zurich, Switzerland — Surgery\n   https://doi.org/10.1016/j.surg.2026.110708\n2. Prognostic Impact of the Combined Use of CA19-9 and DUPAN-2 in Initially Unresectable Locally Advanced Pancreatic Adenocarcinoma.\n   Sumiyoshi et al., Hiroshima University, Japan — Annals of Surgical Oncology\n   https://doi.org/10.1245/s10434-026-20710-4\n3. Extent of Lymph Node Examination in Older Adults with Gastric Adenocarcinoma: Is There a Trade-off Between Survival and Short-Term Outcomes? : Benefit of Lymph Node Yield in Older Adults with Gastric Cancer.\n   Kim et al., Warren Alpert Medical School of Brown University, Providence, RI, USA — Annals of Surgical Oncology\n   https://doi.org/10.1245/s10434-026-20774-2\n4. Timing of Emergency General Surgery After Acute Pulmonary Embolism.\n   Mehta et al., Center for Advanced Surgical and Interventional Technology, Los Angeles, CA — Journal of the American College of Surgeons\n   https://doi.org/10.1097/XCS.0000000000002266\n5. Combined versus staged resection of synchronous rectal cancer liver metastases: national target trial emulation.\n   Marchegiani et al., Université Paris Cité, France — The British Journal of Surgery\n   https://doi.org/10.1093/bjs/znag121\n\nThese summaries do not replace reading the full papers.\nSubscribe to the STITCHES newsletter: https://stitches.today\n\nMusic: Jazz Piano Restaurant Music by Alex Morgan from Pixabay\nEpisode script generated from the STITCHES Daily selection and read by an AI voice.\n",
+    "audio_url": "https://archive.org/download/stitches-daily-2026-11-05/stitches-daily-2026-11-05.mp3",
+    "audio_bytes": 3061656,
+    "duration_s": 255.1
   }
 ]
