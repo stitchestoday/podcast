@@ -268,5 +268,15 @@
     "audio_url": "https://archive.org/download/stitches-daily-2026-11-03/stitches-daily-2026-11-03.mp3",
     "audio_bytes": 3103974,
     "duration_s": 258.6
+  },
+  {
+    "guid": "stitches-daily-2026-11-04",
+    "date": "2026-11-04",
+    "release_at": "2026-11-04T05:00:00+01:00",
+    "title": "Dye Imaging, Small-Bite Closure and Robotic Surgery",
+    "show_notes": "Dye Imaging, Small-Bite Closure and Robotic Surgery\nSTITCHES Daily · Wednesday, 4 November 2026\n\nToday, we look at fluorescence imaging to assess blood flow after oesophagectomy, and a simple change to abdominal closure that may prevent hernias. We also cover long-term outcomes with robotic rectal surgery, robotic motion analysis, and a shorter chemotherapy schedule for metastatic colorectal cancer.\n\nPapers in this episode:\n1. Efficacy of indocyanine green (ICG) angiography in reducing postoperative complications in oesophagectomy: systematic review and meta-analysis.\n   Dermanis et al., Glangwilli Hospital, Carmarthen, UK — The British Journal of Surgery\n   https://doi.org/10.1093/bjs/znag134\n2. Small-bite compared with large-bite closure of midline laparotomy: meta-analysis of short- and long-term outcomes with trial sequential analysis.\n   Emile et al., Cleveland Clinic Florida, Florida, USA — The British Journal of Surgery\n   https://doi.org/10.1093/bjs/znag131\n3. Long-term oncological outcomes of robotic versus laparoscopic total mesorectal excision for rectal cancer: COLRAR randomized clinical trial.\n   Song et al., Kyungpook National University Chilgok Hospital, Republic of Korea — The British Journal of Surgery\n   https://doi.org/10.1093/bjs/znag114\n4. Multimodal Prediction in Robotic Surgery: The Incremental Value of Task-Level Kinematic Data.\n   Ballo et al., Lenox Hill Hospital, New York, NY — Annals of Surgery\n   https://doi.org/10.1097/SLA.0000000000007231\n5. 14-day versus 28-day trifluridine-tipiracil plus bevacizumab for refractory metastatic colorectal cancer (PRABITAS): a pragmatic, multicentre, open-label, randomised, phase 3, non-inferiority trial in Japan.\n   Sakakida et al., Aichi Cancer Center Hospital, Japan — Lancet (London, England)\n   https://doi.org/10.1016/S0140-6736(26)01782-4\n\nThese summaries do not replace reading the full papers.\nSubscribe to the STITCHES newsletter: https://stitches.today\n\nMusic: Jazz Piano Restaurant Music by Alex Morgan from Pixabay\nEpisode script generated from the STITCHES Daily selection and read by an AI voice.\n",
+    "audio_url": "https://archive.org/download/stitches-daily-2026-11-04/stitches-daily-2026-11-04.mp3",
+    "audio_bytes": 3265411,
+    "duration_s": 272.1
   }
 ]
