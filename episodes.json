@@ -298,5 +298,15 @@
     "audio_url": "https://archive.org/download/stitches-daily-2026-11-06/stitches-daily-2026-11-06.mp3",
     "audio_bytes": 3527471,
     "duration_s": 293.9
+  },
+  {
+    "guid": "stitches-daily-2026-11-09",
+    "date": "2026-11-09",
+    "release_at": "2026-11-09T05:00:00+01:00",
+    "title": "Hernia Follow-Up, Magnetic Colon Joins and Liver Transplant",
+    "show_notes": "Hernia Follow-Up, Magnetic Colon Joins and Liver Transplant\nSTITCHES Daily · Monday, 9 November 2026\n\nToday, we look at follow-up during watchful waiting for hernia, a new magnetic approach to colon anastomosis, and transplant for combined liver cancer. We also discuss pregnancy loss during surgical training and an endoscopic way to assess fundoplication.\n\nPapers in this episode:\n1. Long-term follow-up in asymptomatic or oligosymptomatic inguinal hernias: watchful or watchless waiting?\n   Valinoti et al., Hospital Alemán of Buenos Aires, Av — Surgical Endoscopy\n   https://doi.org/10.1007/s00464-026-13475-0\n2. Magnetic Compression Anastomosis With Immediate Luminal Patency in Colorectal Surgery: First-in-Human Safety and Feasibility Evaluation of a Self-forming Magnet System.\n   Caycedo-Marulanda et al., Orlando Health Colon & Rectal Institute, Florida — Diseases of the Colon and Rectum\n   https://doi.org/10.1097/DCR.0000000000004309\n3. Reappraising Liver Transplantation for Combined Hepatocellular-cholangiocarcinoma.\n   Shankar et al., The Institute of Liver Disease and Transplantation, Dr — Annals of Surgery\n   https://doi.org/10.1097/SLA.0000000000007156\n4. Surgeon Perspectives on Pregnancy Loss.\n   Siderides et al., New York-Presbyterian, New York, NY — Annals of Surgery\n   https://doi.org/10.1097/SLA.0000000000007250\n5. Endoscopic Classification of Fundoplication Integrity Predicts Pathologic Reflux: Development and Prospective Validation.\n   Siboni et al., IRCCS Policlinico San Donato, Italy — Annals of Surgery\n   https://doi.org/10.1097/SLA.0000000000007245\n\nThese summaries do not replace reading the full papers.\nSubscribe to the STITCHES newsletter: https://stitches.today\n\nMusic: Jazz Piano Restaurant Music by Alex Morgan from Pixabay\nEpisode script generated from the STITCHES Daily selection and read by an AI voice.\n",
+    "audio_url": "https://archive.org/download/stitches-daily-2026-11-09/stitches-daily-2026-11-09.mp3",
+    "audio_bytes": 3287667,
+    "duration_s": 273.9
   }
 ]
