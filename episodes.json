@@ -308,5 +308,15 @@
     "audio_url": "https://archive.org/download/stitches-daily-2026-11-09/stitches-daily-2026-11-09.mp3",
     "audio_bytes": 3287667,
     "duration_s": 273.9
+  },
+  {
+    "guid": "stitches-daily-2026-11-10",
+    "date": "2026-11-10",
+    "release_at": "2026-11-10T05:00:00+01:00",
+    "title": "Rectal Cancer Radiation, Ileostomy Closure and Perihilar Cancer Risk",
+    "show_notes": "Rectal Cancer Radiation, Ileostomy Closure and Perihilar Cancer Risk\nSTITCHES Daily · Tuesday, 10 November 2026\n\nToday, we look at radiation choices in rectal cancer and techniques for ileostomy closure. We also examine gaps in social-needs screening, research after surgical oncology fellowship, and a risk score for perihilar bile duct cancer.\n\nPapers in this episode:\n0:00 Intro\n0:26 1. Short- Versus Long-Course Radiation in Total Neoadjuvant Therapy for Locally Advanced Rectal Cancer: A Propensity-Matched National Cancer Database Analysis.\n   Szeglin et al., Johns Hopkins University School of Medicine, Maryland — Diseases of the Colon and Rectum\n   https://doi.org/10.1097/DCR.0000000000004374\n1:13 2. Comparative effectiveness of modified ileostomy techniques in rectal cancer surgery: A systematic review and network meta-analysis.\n   Wang et al., First Affiliated Hospital of Kunming Medical University, China — Surgery\n   https://doi.org/10.1016/j.surg.2026.110704\n2:03 3. Barriers to implementing bedside nursing screening for health-related social needs in surgical patients: An explanatory sequential mixed-methods study.\n   Linhares et al., Surgery Service, West Haven, CT — Surgery\n   https://doi.org/10.1016/j.surg.2026.110743\n2:55 4. An In-depth Bibliometric Study of Complex General Surgical Oncology (CGSO) Fellowship Graduates Within the First 5-year Period of Independent Practice.\n   Zheng et al., Advocate Health Wake Forest Baptist Medical Center, Winston-Salem, NC, USA — Annals of Surgical Oncology\n   https://doi.org/10.1245/s10434-026-20811-0\n3:47 5. An ABC approach for preoperative staging in perihilar cholangiocarcinoma: An international multicenter cohort study.\n   Ten Haaft et al., University of Amsterdam, the Netherlands — Journal of Hepatology\n   https://doi.org/10.1016/j.jhep.2026.07.013\n4:34 Outro\n\nThese summaries do not replace reading the full papers.\nSubscribe to the STITCHES newsletter: https://stitches.today\n\nMusic: Jazz Piano Restaurant Music by Alex Morgan from Pixabay\nEpisode script generated from the STITCHES Daily selection and read by an AI voice.\n",
+    "audio_url": "https://archive.org/download/stitches-daily-2026-11-10/stitches-daily-2026-11-10.mp3",
+    "audio_bytes": 3503334,
+    "duration_s": 291.9
   }
 ]
