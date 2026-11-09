@@ -318,5 +318,15 @@
     "audio_url": "https://archive.org/download/stitches-daily-2026-11-10/stitches-daily-2026-11-10.mp3",
     "audio_bytes": 3503334,
     "duration_s": 291.9
+  },
+  {
+    "guid": "stitches-daily-2026-11-11",
+    "date": "2026-11-11",
+    "release_at": "2026-11-11T05:00:00+01:00",
+    "title": "Colectomy Metrics, Long-Term Bowel Dysfunction and Leak Detection",
+    "show_notes": "Colectomy Metrics, Long-Term Bowel Dysfunction and Leak Detection\nSTITCHES Daily · Wednesday, 11 November 2026\n\nToday, we look at how colectomy performance changes depending on the metric, and how bowel dysfunction and leak testing shape care after colorectal surgery. We also cover steroids after pancreatic surgery and the support available in surgical education fellowships.\n\nPapers in this episode:\n0:00 Intro\n0:28 1. Surgeon-Level Value Measurement in Colectomy: Independent Domains of Cost, Efficiency, Conversion, and Outcomes.\n   Dallal et al., Jefferson Health, Pennsylvania — Diseases of the Colon and Rectum\n   https://doi.org/10.1097/DCR.0000000000004466\n1:11 2. Long-term (≥ 5 Years) Low Anterior Resection Syndrome and Health Related Quality of Life in Rectal Cancer Patients: A Systematic Review.\n   Civilka et al., Vilnius University, Lithuania — Diseases of the Colon and Rectum\n   https://doi.org/10.1097/DCR.0000000000004460\n1:51 3. Intraperitoneal drain biomarkers to detect anastomotic leaks in gastrointestinal surgery: A systematic review and meta-analysis.\n   Lewis et al., The University of Auckland, New Zealand — Surgery\n   https://doi.org/10.1016/j.surg.2026.110703\n2:35 4. Impact of perioperative corticosteroids on postoperative morbidity after pancreaticoduodenectomy: A systematic review, meta-analysis, and trial sequential analysis.\n   Ricci et al., IRCCS Azienda Ospedaliero-Universitaria Di Bologna, Italy — Surgery\n   https://doi.org/10.1016/j.surg.2026.110758\n3:19 5. National Cross-Sectional Survey of Surgical Education Fellowships in the US.\n   Silvestri et al., Columbia University, Sathe) — Journal of the American College of Surgeons\n   https://doi.org/10.1097/XCS.0000000000002274\n3:57 Outro\n\nThese summaries do not replace reading the full papers.\nSubscribe to the STITCHES newsletter: https://stitches.today\n\nMusic: Jazz Piano Restaurant Music by Alex Morgan from Pixabay\nEpisode script generated from the STITCHES Daily selection and read by an AI voice.\n",
+    "audio_url": "https://archive.org/download/stitches-daily-2026-11-11/stitches-daily-2026-11-11.mp3",
+    "audio_bytes": 3076075,
+    "duration_s": 256.3
   }
 ]
