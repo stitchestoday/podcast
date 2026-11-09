@@ -338,5 +338,15 @@
     "audio_url": "https://archive.org/download/stitches-daily-2026-11-13/stitches-daily-2026-11-13.mp3",
     "audio_bytes": 3241900,
     "duration_s": 270.1
+  },
+  {
+    "guid": "stitches-daily-2026-11-17",
+    "date": "2026-11-17",
+    "release_at": "2026-11-17T05:00:00+01:00",
+    "title": "Emergency Cholecystectomy, Cholangiocarcinoma Resection and Robotic Surgery",
+    "show_notes": "Emergency Cholecystectomy, Cholangiocarcinoma Resection and Robotic Surgery\nSTITCHES Daily · Tuesday, 17 November 2026\n\nToday, we look at antithrombotic therapy and bailout surgery in acute cholecystitis. We also cover resection choices for bile duct cancer, pancreatic reconstruction, and robotic esophagectomy.\n\nPapers in this episode:\n0:00 Intro\n0:24 1. Safety of Continuing Single-Agent Antithrombotic Therapy During Emergency Cholecystectomy for Acute Cholecystitis: An Overlap-Weighted Propensity Score Analysis With the Hiroshima Surgical Study Group of Clinical Oncology (HiSCO).\n   Tadokoro et al., Hiroshima University, Japan — Journal of Hepato-biliary-pancreatic Sciences\n   https://doi.org/10.1002/jhbp.70212\n1:12 2. Anatomic versus non-anatomic resection for intrahepatic cholangiocarcinoma in minimally invasive liver surgery: a multicentre propensity score-matched study.\n   Delvecchio et al., Ecclesiastical Entity Regional General Hospital \"F. Miulli\", Italy — European Journal of Surgical Oncology\n   https://doi.org/10.1016/j.ejso.2026.112349\n2:01 3. A Modified Blumgart Pancreaticojejunostomy in Laparoscopic Pancreaticoduodenectomy: A Retrospective Study.\n   Teng et al., College of Clinical Medicine, China — World Journal of Surgery\n   https://doi.org/10.1002/wjs.70659\n2:51 4. Robotic-assisted versus conventional minimally invasive esophagectomy after neoadjuvant chemoradiotherapy: a systematic review and meta-analysis.\n   Bertch et al., University of North Dakota School of Medicine & Health Sciences, Grand Forks, ND, USA — Surgical Endoscopy\n   https://doi.org/10.1007/s00464-026-13466-1\n3:36 5. Evaluating the utility of subtotal cholecystectomies in the contemporary management of acute cholecystitis- preliminary analysis from the SWSC/SESC acute cholecystitis collaborative.\n   Spriggs et al., Baylor College of Medicine, Temple, TX, USA — American Journal of Surgery\n   https://doi.org/10.1016/j.amjsurg.2026.117345\n4:21 Outro\n\nThese summaries do not replace reading the full papers.\nSubscribe to the STITCHES newsletter: https://stitches.today\n\nMusic: Jazz Piano Restaurant Music by Alex Morgan from Pixabay\nEpisode script generated from the STITCHES Daily selection and read by an AI voice.\n",
+    "audio_url": "https://archive.org/download/stitches-daily-2026-11-17/stitches-daily-2026-11-17.mp3",
+    "audio_bytes": 3344405,
+    "duration_s": 278.6
   }
 ]
