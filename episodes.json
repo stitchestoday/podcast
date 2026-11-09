@@ -328,5 +328,15 @@
     "audio_url": "https://archive.org/download/stitches-daily-2026-11-11/stitches-daily-2026-11-11.mp3",
     "audio_bytes": 3076075,
     "duration_s": 256.3
+  },
+  {
+    "guid": "stitches-daily-2026-11-13",
+    "date": "2026-11-13",
+    "release_at": "2026-11-13T05:00:00+01:00",
+    "title": "Emergency Wounds, Rectal Leaks and Robotic Whipple Surgery",
+    "show_notes": "Emergency Wounds, Rectal Leaks and Robotic Whipple Surgery\nSTITCHES Daily · Friday, 13 November 2026\n\nToday, we look at emergency wound care, rectal leak prevention, and when penetrating kidney injuries may avoid exploration. We also cover robotic Whipple surgery and the outcomes associated with emergency surgery verification.\n\nPapers in this episode:\n0:00 Intro\n0:26 1. Negative Pressure Wound Therapy for Emergency Laparotomy: A Meta-Analysis With Trial Sequential Analysis.\n   Alharran et al., Arabian Gulf University, Kingdom of Bahrain — The Journal of Surgical Research\n   https://doi.org/10.1016/j.jss.2026.09.020\n1:10 2. Anastomotic reinforcement suturing compared with preventive stoma after laparoscopic low anterior resection for rectal cancer: a multicenter propensity score-matched study.\n   Wang et al., Qilu Hospital of Shandong University, China — Surgical Endoscopy\n   https://doi.org/10.1007/s00464-026-13530-w\n1:56 3. Are you kidneying me? Exploring management of high-grade penetrating renal trauma.\n   Meyer et al., Emory University School of Medicine, United States — American Journal of Surgery\n   https://doi.org/10.1016/j.amjsurg.2026.117343\n2:42 4. Robotic (minimally invasive) Whipple: Ready for Primetime or experimental pipedream.\n   May et al., University of Chicago, Chicago, IL, USA — American Journal of Surgery\n   https://doi.org/10.1016/j.amjsurg.2026.117283\n3:27 5. Improving Quality Through the Emergency General Surgery Verification Program.\n   Hobika et al., American College of Surgeons, Illinois — JAMA Surgery\n   https://doi.org/10.1001/jamasurg.2026.5254\n4:13 Outro\n\nThese summaries do not replace reading the full papers.\nSubscribe to the STITCHES newsletter: https://stitches.today\n\nMusic: Jazz Piano Restaurant Music by Alex Morgan from Pixabay\nEpisode script generated from the STITCHES Daily selection and read by an AI voice.\n",
+    "audio_url": "https://archive.org/download/stitches-daily-2026-11-13/stitches-daily-2026-11-13.mp3",
+    "audio_bytes": 3241900,
+    "duration_s": 270.1
   }
 ]
