@@ -4,7 +4,7 @@ on:
   schedule:
     - cron: "7,22,37,52 * * * *"   # ogni 15 minuti: GitHub a volte salta dei giri, cosi' l'uscita non slitta
   push:
-    paths: ["episodes.json", "podcast.json", "build_feed.py", "index.html", "cover.jpg"]
+    paths: ["episodes.json", "podcast.json", "build_feed.py", "index.html", "cover.jpg", "email-icons/**"]
   workflow_dispatch: {}
 
 permissions:
