@@ -36,6 +36,7 @@ jobs:
         run: |
           mkdir -p _site
           cp feed.xml index.html cover.jpg _site/
+          cp -r email-icons _site/
       - uses: actions/upload-pages-artifact@v3
         if: steps.build.outputs.changed == 'true' || github.event_name != 'schedule'
         with:
