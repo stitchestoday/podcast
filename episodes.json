@@ -348,5 +348,15 @@
     "audio_url": "https://archive.org/download/stitches-daily-2026-11-17/stitches-daily-2026-11-17.mp3",
     "audio_bytes": 3344405,
     "duration_s": 278.6
+  },
+  {
+    "guid": "stitches-daily-2026-11-18",
+    "date": "2026-11-18",
+    "release_at": "2026-11-18T05:00:00+01:00",
+    "title": "Gastrectomy Analgesia, Emergency Surgery and Pancreatic Risk",
+    "show_notes": "Gastrectomy Analgesia, Emergency Surgery and Pancreatic Risk\nSTITCHES Daily · Wednesday, 18 November 2026\n\nToday, we look at pain control after minimally invasive gastrectomy and surgical approaches for emergency colon disease. We also cover wound infection after bile duct stone surgery, automation bias in robotic surgery, and risk after pancreatic resection.\n\nPapers in this episode:\n0:00 Intro\n0:28 1. Scheduled intravenous acetaminophen versus thoracic epidural analgesia for postoperative pain control after minimally invasive gastrectomy: multicentre randomized non-inferiority trial.\n   Kinoshita et al., Kanazawa University Hospital, Japan — BJS Open\n   https://doi.org/10.1093/bjsopen/zrag031\n1:16 2. Factors Influencing Bile Leakage and Incisional Infection Post-Choledocholithotomy: An Analysis Based on 621 Patients.\n   Gao et al., Nanping First Hospital Affiliated to Fujian Medical University, China — European Surgical Research. Europaische Chirurgische Forschung. Recherches Chirurgicales Europeennes\n   https://doi.org/10.1159/000548103\n2:00 3. Laparoscopic approach for emergency colon resection: a retrospective propensity score-matched study.\n   Lahtinen et al., Päijät-Häme Central Hospital, Finland — World Journal of Emergency Surgery\n   https://doi.org/10.1186/s13017-026-00721-y\n2:43 4. The surgeon in the loop: automation bias and human-AI interaction in robotic surgery.\n   Morais et al., Lenox Hill Hospital, New York, NY, USA — Surgical Endoscopy\n   https://doi.org/10.1007/s00464-026-13440-x\n3:27 5. Chronic corticosteroid therapy impairs postoperative outcomes of pancreatic surgery: International multicenter retrospective study.\n   Pellegrini et al., University of Padua, Italy — Surgery\n   https://doi.org/10.1016/j.surg.2026.110661\n4:09 Outro\n\nThese summaries do not replace reading the full papers.\nSubscribe to the STITCHES newsletter: https://stitches.today\n\nMusic: Jazz Piano Restaurant Music by Alex Morgan from Pixabay\nEpisode script generated from the STITCHES Daily selection and read by an AI voice.\n",
+    "audio_url": "https://archive.org/download/stitches-daily-2026-11-18/stitches-daily-2026-11-18.mp3",
+    "audio_bytes": 3192059,
+    "duration_s": 266.0
   }
 ]
