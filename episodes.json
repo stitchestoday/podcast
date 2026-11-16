@@ -358,5 +358,15 @@
     "audio_url": "https://archive.org/download/stitches-daily-2026-11-18/stitches-daily-2026-11-18.mp3",
     "audio_bytes": 3192059,
     "duration_s": 266.0
+  },
+  {
+    "guid": "stitches-daily-2026-11-19",
+    "date": "2026-11-19",
+    "release_at": "2026-11-19T05:00:00+01:00",
+    "title": "Pancreatic Cancer Restaging, Catheter Removal and Colectomy Risk",
+    "show_notes": "Pancreatic Cancer Restaging, Catheter Removal and Colectomy Risk\nSTITCHES Daily · Thursday, 19 November 2026\n\nToday, we look at treatment and restaging in pancreatic cancer, catheter removal after colonic surgery, and opioid prescribing at discharge. We also examine how sociobehavioral risks relate to complications after colectomy.\n\nPapers in this episode:\n0:00 Intro\n0:26 1. Reassessing standard neoadjuvant gemcitabine plus S-1 for resectable pancreatic head cancer: a retrospective cohort study.\n   Kimura et al., Teine Keijinkai Hospital, Japan — Journal of Gastrointestinal Oncology\n   https://doi.org/10.21037/jgo-2026-0892\n1:12 2. Urinary Catheter Management on Leaving the Operating Theatre After Elective Colonic Surgery: A Systematic Review and Meta-Analysis.\n   Manasseh et al., Wirral University Teaching Hospital NHS Foundation Trust — Journal of Gastrointestinal Surgery\n   https://doi.org/10.1016/j.gassur.2026.102672\n1:57 3. Rethinking Opioid Prescribing at Surgical Discharge: User-Centered Approach to Clinical Decision Support in the Electronic Health Record.\n   Pandey et al., University of California, CA (Pandey) — Journal of the American College of Surgeons\n   https://doi.org/10.1097/XCS.0000000000002282\n2:47 4. Sociobehavioral Comorbidities and Outcomes After Colectomy in a National United States Veteran Cohort.\n   D'Aquila et al., Connecticut Healthcare System, West Haven, CT — Annals of Surgery\n   https://doi.org/10.1097/SLA.0000000000007252\n3:36 5. Metro-Pancreas Stratifies Survival After Neoadjuvant Chemotherapy and Surgery for Resectable Pancreatic Cancer.\n   Cucchetti et al., Alma Mater Studiorum - University of Bologna, Italy — Annals of Surgery\n   https://doi.org/10.1097/SLA.0000000000007253\n4:25 Outro\n\nThese summaries do not replace reading the full papers.\nSubscribe to the STITCHES newsletter: https://stitches.today\n\nMusic: Jazz Piano Restaurant Music by Alex Morgan from Pixabay\nEpisode script generated from the STITCHES Daily selection and read by an AI voice.\n",
+    "audio_url": "https://archive.org/download/stitches-daily-2026-11-19/stitches-daily-2026-11-19.mp3",
+    "audio_bytes": 3408666,
+    "duration_s": 284.0
   }
 ]
