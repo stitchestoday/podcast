@@ -378,5 +378,15 @@
     "audio_url": "https://archive.org/download/stitches-daily-2026-11-20/stitches-daily-2026-11-20.mp3",
     "audio_bytes": 3305221,
     "duration_s": 275.4
+  },
+  {
+    "guid": "stitches-daily-2026-11-23",
+    "date": "2026-11-23",
+    "release_at": "2026-11-23T05:00:00+01:00",
+    "title": "Bariatric Leaks, Liver Cancer Survival and Colorectal Bleeding",
+    "show_notes": "Bariatric Leaks, Liver Cancer Survival and Colorectal Bleeding\nSTITCHES Daily · Monday, 23 November 2026\n\nToday, we look at trade-offs in bariatric surgery and liver cancer treatment, along with bleeding prevention after colorectal endoscopic resection. We also examine recurrence after severe gallstone pancreatitis and the role of prophylactic neck dissection in thyroid cancer.\n\nPapers in this episode:\n0:00 Intro\n0:29 1. Antrectomy versus antral preservation in sleeve gastrectomy: a retrospective propensity score analysis of 675 patients.\n   Jacob et al., Antoine Béclère Hospital, France — Surgery for Obesity and Related Diseases\n   https://doi.org/10.1016/j.soard.2026.10.002\n1:04 2. Survival differences between radiofrequency ablation and surgical resection for early hepatocellular carcinoma: a population-based comparative effectiveness study.\n   Lin et al., the First Affiliated Hospital, China — European Journal of Surgical Oncology\n   https://doi.org/10.1016/j.ejso.2026.112361\n1:48 3. Efficacy and Safety of Prophylactic Defect Closure After Colorectal ESD: A Systematic Review and Meta-Analysis with GRADE Certainty Assessment.\n   Al-Harbi et al., King Faisal Specialist Hospital and Research Centre, Saudi Arabia — Journal of Gastrointestinal Surgery\n   https://doi.org/10.1016/j.gassur.2026.102665\n2:32 4. Impact of cholecystectomy and biliary sphincterotomy on recurrent acute pancreatitis and biliary events after endoscopic treatment of gallstone-induced walled-off pancreatic necrosis: a retrospective cohort study.\n   Rasmussen et al., Copenhagen University Hospital - Amager and Hvidovre, Denmark — Surgical Endoscopy\n   https://doi.org/10.1007/s00464-026-13532-8\n3:16 5. Recurrence and surveillance intensity after prophylactic central neck dissection for papillary thyroid carcinoma: Long-term follow-up of a randomized trial.\n   Finn et al., University of Wisconsin-Madison, WI — Surgery\n   https://doi.org/10.1016/j.surg.2026.110598\n3:59 Outro\n\nThese summaries do not replace reading the full papers.\nSubscribe to the STITCHES newsletter: https://stitches.today\n\nMusic: Jazz Piano Restaurant Music by Alex Morgan from Pixabay\nEpisode script generated from the STITCHES Daily selection and read by an AI voice.\n",
+    "audio_url": "https://archive.org/download/stitches-daily-2026-11-23/stitches-daily-2026-11-23.mp3",
+    "audio_bytes": 3096764,
+    "duration_s": 258.0
   }
 ]
