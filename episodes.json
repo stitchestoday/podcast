@@ -368,5 +368,15 @@
     "audio_url": "https://archive.org/download/stitches-daily-2026-11-19/stitches-daily-2026-11-19.mp3",
     "audio_bytes": 3408666,
     "duration_s": 284.0
+  },
+  {
+    "guid": "stitches-daily-2026-11-20",
+    "date": "2026-11-20",
+    "release_at": "2026-11-20T05:00:00+01:00",
+    "title": "Pancreatic Margins, Peritoneal Metastases and Appendectomy Value",
+    "show_notes": "Pancreatic Margins, Peritoneal Metastases and Appendectomy Value\nSTITCHES Daily · Friday, 20 November 2026\n\nToday, we look at treatment choices in pancreatic cancer and colorectal peritoneal metastases. We also cover a blast injury guideline, robotic appendectomy, and perioperative blood pressure medication.\n\nPapers in this episode:\n0:00 Intro\n0:25 1. CT-Based Radiomics for Preoperative Prediction of Surgical Margins in Pancreatic Head Cancer: A Tool for Selecting Patients for Neoadjuvant Chemotherapy.\n   Li et al., West China Hospital, China — Journal of Surgical Oncology\n   https://doi.org/10.1002/jso.70453\n1:15 2. Explosive Weapons Trauma Care Collective (EXTRACCT) Blast Injury Clinical Practice Guideline: Abdominal Blast Injuries.\n   Anna Morel et al., McGill University, Canada — World Journal of Surgery\n   https://doi.org/10.1002/wjs.70669\n1:57 3. Long-Term Survival After CRS-HIPEC for colorectal Cancer Peritoneal Metastases.\n   van Kesteren et al., Amsterdam University Medical Center, The Netherlands — Annals of Surgical Oncology\n   https://doi.org/10.1245/s10434-026-20753-7\n2:48 4. Increased Adoption of Robot-Assisted Appendectomy Without Improved Outcomes and Lower Modeled Value.\n   Wiggins et al., University of Florida, Gainesville, FL — Journal of the American College of Surgeons\n   https://doi.org/10.1097/XCS.0000000000002283\n3:33 5. Effect of discontinuing antihypertensives on perioperative hypotension in older patients before non-cardiac surgery: multicentre, randomised, double blind, controlled trial.\n   Yang et al., First Affiliated Hospital of Soochow University — BMJ (Clinical Research Ed.)\n   https://doi.org/10.1136/bmj-2026-101087\n4:17 Outro\n\nThese summaries do not replace reading the full papers.\nSubscribe to the STITCHES newsletter: https://stitches.today\n\nMusic: Jazz Piano Restaurant Music by Alex Morgan from Pixabay\nEpisode script generated from the STITCHES Daily selection and read by an AI voice.\n",
+    "audio_url": "https://archive.org/download/stitches-daily-2026-11-20/stitches-daily-2026-11-20.mp3",
+    "audio_bytes": 3305221,
+    "duration_s": 275.4
   }
 ]
