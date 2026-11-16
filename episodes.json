@@ -398,5 +398,15 @@
     "audio_url": "https://archive.org/download/stitches-daily-2026-11-24/stitches-daily-2026-11-24.mp3",
     "audio_bytes": 3029368,
     "duration_s": 252.4
+  },
+  {
+    "guid": "stitches-daily-2026-11-25",
+    "date": "2026-11-25",
+    "release_at": "2026-11-25T05:00:00+01:00",
+    "title": "Reflux Control, Spleen Preservation and Safer Major Surgery",
+    "show_notes": "Reflux Control, Spleen Preservation and Safer Major Surgery\nSTITCHES Daily · Wednesday, 25 November 2026\n\nToday, we compare two operations for reflux and examine spleen-preserving surgery after distal pancreatectomy. We also cover oral antibiotics for complicated appendicitis, minimally invasive gastrectomy, and deaths after minimally invasive pancreatic surgery.\n\nPapers in this episode:\n0:00 Intro\n0:29 1. Serial Assessment of Esophageal Acid Exposure After Nissen Fundoplication and Magnetic Sphincter Augmentation in Patients with Anatomically Intact Repairs.\n   Sarici et al., Allegheny Health Network, Pittsburgh, PA — Journal of Gastrointestinal Surgery\n   https://doi.org/10.1016/j.gassur.2026.102673\n1:17 2. Kimura versus Warshaw technique for distal pancreatectomy: a meta-analysis and systematic review.\n   Torres-Martinez et al., Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, USA — Surgical Endoscopy\n   https://doi.org/10.1007/s00464-026-13446-5\n1:56 3. Oral versus intravenous postoperative antibiotics after laparoscopic appendectomy following complicated appendicitis: an open-label cluster-randomized cluster-crossover multiperiod non-inferiority study.\n   Abdirahman Mohamud et al., Slagelse Hospital, Denmark — The British Journal of Surgery\n   https://doi.org/10.1093/bjs/znag141\n2:38 4. Open versus minimally invasive surgery for large type 3 and type 4 gastric cancer: multicentre retrospective national study at high-volume centres.\n   Kitadani et al., Wakayama Medical University, Japan — The British Journal of Surgery\n   https://doi.org/10.1093/bjs/znag137\n3:23 5. Postpancreatectomy Mortality (PPM) Following Minimally Invasive Pancreatic Surgery Is Mainly Driven by Pancreatectomy-Specific Complications: Application of the ISGPS Classification Through Root-Cause Analysis on a Nationwide Cohort.\n   Turrini et al., Morgagni-Pierantoni Hospital, Italy — Annals of Surgery\n   https://doi.org/10.1097/SLA.0000000000007254\n4:11 Outro\n\nThese summaries do not replace reading the full papers.\nSubscribe to the STITCHES newsletter: https://stitches.today\n\nMusic: Jazz Piano Restaurant Music by Alex Morgan from Pixabay\nEpisode script generated from the STITCHES Daily selection and read by an AI voice.\n",
+    "audio_url": "https://archive.org/download/stitches-daily-2026-11-25/stitches-daily-2026-11-25.mp3",
+    "audio_bytes": 3216823,
+    "duration_s": 268.0
   }
 ]
