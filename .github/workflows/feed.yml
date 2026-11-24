@@ -37,11 +37,11 @@ jobs:
           mkdir -p _site
           cp feed.xml index.html cover.jpg _site/
           cp -r email-icons _site/
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/upload-pages-artifact@v5
         if: steps.build.outputs.changed == 'true' || github.event_name != 'schedule'
         with:
           path: _site
       - name: Pubblica su GitHub Pages
         id: deployment
         if: steps.build.outputs.changed == 'true' || github.event_name != 'schedule'
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
