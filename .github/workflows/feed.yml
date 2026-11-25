@@ -41,7 +41,7 @@ jobs:
         if: steps.build.outputs.changed == 'true' || github.event_name != 'schedule'
         with:
           path: _site
-            - name: Attendi che GitHub registri l'artifact
+      - name: Attendi che GitHub registri l'artifact
         if: steps.build.outputs.changed == 'true' || github.event_name != 'schedule'
         run: sleep 20
       - name: Pubblica su GitHub Pages
@@ -52,6 +52,10 @@ jobs:
       - name: Secondo tentativo (dopo 60 s)
         if: steps.deploy1.outcome == 'failure'
         run: sleep 60
+      - name: Pubblica su GitHub Pages (retry)
+        id: deploy2
+        if: steps.deploy1.outcome == 'failure'
+        uses: actions/deploy-pages@v5
       - name: Pubblica su GitHub Pages (retry)
         id: deploy2
         if: steps.deploy1.outcome == 'failure'
