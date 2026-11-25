@@ -56,7 +56,3 @@ jobs:
         id: deploy2
         if: steps.deploy1.outcome == 'failure'
         uses: actions/deploy-pages@v5
-      - name: Pubblica su GitHub Pages (retry)
-        id: deploy2
-        if: steps.deploy1.outcome == 'failure'
-        uses: actions/deploy-pages@v5
