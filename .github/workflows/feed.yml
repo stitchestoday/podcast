@@ -21,7 +21,7 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: ${{ steps.deploy1.outputs.page_url || steps.deploy2.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -41,7 +41,18 @@ jobs:
         if: steps.build.outputs.changed == 'true' || github.event_name != 'schedule'
         with:
           path: _site
-      - name: Pubblica su GitHub Pages
-        id: deployment
+            - name: Attendi che GitHub registri l'artifact
         if: steps.build.outputs.changed == 'true' || github.event_name != 'schedule'
+        run: sleep 20
+      - name: Pubblica su GitHub Pages
+        id: deploy1
+        continue-on-error: true
+        if: steps.build.outputs.changed == 'true' || github.event_name != 'schedule'
+        uses: actions/deploy-pages@v5
+      - name: Secondo tentativo (dopo 60 s)
+        if: steps.deploy1.outcome == 'failure'
+        run: sleep 60
+      - name: Pubblica su GitHub Pages (retry)
+        id: deploy2
+        if: steps.deploy1.outcome == 'failure'
         uses: actions/deploy-pages@v5
