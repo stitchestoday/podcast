@@ -438,5 +438,15 @@
     "audio_url": "https://archive.org/download/stitches-daily-2026-11-26/stitches-daily-2026-11-26.mp3",
     "audio_bytes": 3135321,
     "duration_s": 261.2
+  },
+  {
+    "guid": "stitches-daily-2026-11-27",
+    "date": "2026-11-27",
+    "release_at": "2026-11-27T05:00:00+01:00",
+    "title": "Robotic Pancreas and Gastric Surgery, Stapling and Crohn’s Disease",
+    "show_notes": "Robotic Pancreas and Gastric Surgery, Stapling and Crohn’s Disease\nSTITCHES Daily · Friday, 27 November 2026\n\nToday, we look at robotic and minimally invasive approaches in pancreatic, gastric, and rectal surgery. We also examine stapling choices for bypass and whether continuing advanced therapy before Crohn’s surgery is linked to safer outcomes.\n\nPapers in this episode:\n1. Robotic versus open pancreatoduodenectomy: a systematic review and individual patient data meta-analysis.\n   Menso et al., location University of Amsterdam, Netherlands — The Lancet. Gastroenterology & Hepatology\n   https://doi.org/10.1016/S2468-1253(26)00265-7\n2. Comparative outcomes of linear-stapled, circular-stapled, and hand-sewn gastrojejunostomy in bariatric Roux-en-Y gastric bypass: a systematic review and network meta-analysis.\n   Kapellas et al., Marien Hospital Witten, Germany — Surgery for Obesity and Related Diseases\n   https://doi.org/10.1016/j.soard.2026.10.013\n3. Laparoscopic versus open abdominoperineal resection in rectal cancer: lower successful resection and higher 3-year local recurrence: a multicenter study.\n   Wang et al., Union Hospital, People's Republic of China — Surgical Endoscopy\n   https://doi.org/10.1007/s00464-026-13443-8\n4. Intraoperative Metrics and Short-term Outcomes of Robot-assisted versus Laparoscopic Radical Proximal Gastrectomy: A Propensity Score-matched Single-center Retrospective Cohort Study.\n   Wei et al., The Affiliated Hospital of Qingdao University, China — Annals of Surgical Oncology\n   https://doi.org/10.1245/s10434-026-20926-4\n5. Preoperative Advanced Therapy Use and Anastomotic Complications After Elective Surgery for Crohn's Disease.\n   Neel et al., University of California San Diego, La Jolla, CA — Journal of the American College of Surgeons\n   https://doi.org/10.1097/XCS.0000000000002287\n\nThese summaries do not replace reading the full papers.\nSubscribe to the STITCHES newsletter: https://stitches.today\n\nMusic: Jazz Piano Restaurant Music by Alex Morgan from Pixabay\nEpisode script generated from the STITCHES Daily selection and read by an AI voice.\n",
+    "audio_url": "https://archive.org/download/stitches-daily-2026-11-27/stitches-daily-2026-11-27.mp3",
+    "audio_bytes": 3189865,
+    "duration_s": 265.8
   }
 ]
