@@ -448,5 +448,15 @@
     "audio_url": "https://archive.org/download/stitches-daily-2026-11-27/stitches-daily-2026-11-27.mp3",
     "audio_bytes": 3189865,
     "duration_s": 265.8
+  },
+  {
+    "guid": "stitches-daily-2026-11-30",
+    "date": "2026-11-30",
+    "release_at": "2026-11-30T05:00:00+01:00",
+    "title": "Obstructive Colon Cancer, Acute Cholecystitis and Emergency Hernia Repair",
+    "show_notes": "Obstructive Colon Cancer, Acute Cholecystitis and Emergency Hernia Repair\nSTITCHES Daily · Monday, 30 November 2026\n\nToday, we look at stage-specific outcomes for diverting stomas in obstructive colon cancer, and evidence on surgery for acute cholecystitis. We also cover a faster technique for peroral endoscopic myotomy, treatment of chronic anal fissures, and robotic repair of emergency hernias.\n\nPapers in this episode:\n1. Stage-specific outcomes of diverting stoma as a bridge to surgery versus emergency resection for obstructive colorectal cancer: A nationwide resection-anchored cohort study.\n   Wu et al., Kaohsiung Veterans General Hospital, Taiwan — European Journal of Surgical Oncology\n   https://doi.org/10.1016/j.ejso.2026.113124\n2. A systematic review, meta-analysis and GRADE assessment of the evidence on surgical versus conservative management of acute cholecystitis: an EAES project with ESAIC and ESR participation.\n   Tzanis et al., Alexandra University Hospital, Greece — Surgical Endoscopy\n   https://doi.org/10.1007/s00464-026-13531-9\n3. Transverse versus longitudinal mucosotomy during peroral endoscopic myotomy: results of a multicenter randomized controlled trial.\n   Rodríguez-Fajardo et al., Clínica Shaio, Colombia — Surgical Endoscopy\n   https://doi.org/10.1007/s00464-026-13183-9\n4. Regional Practice Patterns and Short-term Outcomes in the Management of Chronic Anal Fissure: A Multicenter Quality Collaborative.\n   Gaetani et al., Lahey Hospital and Medical Center, Massachusetts — Diseases of the Colon and Rectum\n   https://doi.org/10.1097/DCR.0000000000004493\n5. A comparative analysis of short-term outcomes between robotic, laparoscopic, and open inguinal hernia surgery in the emergency general surgery population.\n   Wang et al., Cooper University Hospital, Camden, NJ — Surgery\n   https://doi.org/10.1016/j.surg.2026.110745\n\nThese summaries do not replace reading the full papers.\nSubscribe to the STITCHES newsletter: https://stitches.today\n\nMusic: Jazz Piano Restaurant Music by Alex Morgan from Pixabay\nEpisode script generated from the STITCHES Daily selection and read by an AI voice.\n",
+    "audio_url": "https://archive.org/download/stitches-daily-2026-11-30/stitches-daily-2026-11-30.mp3",
+    "audio_bytes": 3172624,
+    "duration_s": 264.4
   }
 ]
